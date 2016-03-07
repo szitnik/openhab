@@ -4,7 +4,7 @@ THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE PUBLIC LICE
 
 1. DEFINITIONS
 
-"Contribution" means:
+"Contribution" means:fasdfsfsadfsdfse
 
 a) in the case of the initial Contributor, the initial code and documentation distributed under this Agreement, and
 b) in the case of each subsequent Contributor:
